@@ -1,7 +1,7 @@
 {
    "name": "crud-nodejs-express-typescript",
    "version": "0.0.1",
-   "description": "Awesome project developed with TypeORM.",
+   "description": "Simple Blog CRUD with NodeJS Typeorm",
    "type": "commonjs",
    "devDependencies": {
       "@types/bcrypt": "^5.0.2",
